@@ -20,7 +20,7 @@ import java.util.regex.Pattern;
 
 public record ServerboundSetFlagUrlPacket(BlockPos pos, String url) implements Packet<ServerboundSetFlagUrlPacket> {
 
-    private static final Pattern URL_REGEX = Pattern.compile("^https://i\\.imgur\\.com/(\\w+)\\.(png|jpeg|jpg|webp)$");
+    private static final Pattern URL_REGEX = Pattern.compile("^https://img.noobzone.ru/getimg.php?url=https://i\\.imgur\\.com/(\\w+)\\.(png|jpeg|jpg|webp)$");
 
     public static final ServerboundPacketType<ServerboundSetFlagUrlPacket> TYPE = new Type();
 
