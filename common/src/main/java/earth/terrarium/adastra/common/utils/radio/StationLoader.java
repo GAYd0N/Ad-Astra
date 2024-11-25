@@ -26,7 +26,7 @@ public class StationLoader {
     public static void init() {
         JsonObject object = readLocalStations();
         if (object == null) {
-            object = WebUtils.getJson("https://gh.llkk.cc/https://github.com/GAYd0N/Ad-Astra/blob/1.20.1/stations.json");
+            object = WebUtils.getJson("https://rococo-piroshki-246107.netlify.app/stations.json");
         }
 
         if (object == null) return;
