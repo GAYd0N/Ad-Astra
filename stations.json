@@ -1,15 +1,59 @@
 {
     "stations": [
         {
-            "url": "https://ytcastmp3.radio.cn/63/stream_10489.mp3?type=1&key=53abc81041e063d9915de7852eb97ae4&time=67441e7b",
+            "url": "https://lhttp.qingting.fm/live/1260/64k.mp3",
             "title": "广东音乐之声",
             "name": "广东音乐之声"
         },
-
         {
-            "url": "https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8?wsSession=4ffe69ebfbc436db6d835b03-173252239073039&wsIPSercert=4cbade97ade1950d1de2bc106f072b32",
-            "title": "广东音乐之声",
-            "name": "广东音乐之声"
+            "url": "https://ytcastmp3.radio.cn/75/stream_11095.mp3?type=1&key=3beb07f341aae2340ecb34ed74c698ce&time=674438b7",
+            "title": "海口音乐广播",
+            "name": "海口音乐广播"
+        },
+        {
+            "url": "https://ytcastmp3.radio.cn/82/stream_11090.mp3?type=1&key=750dd869f252215f32f17f2d61d197f0&time=67443932",
+            "title": "南宁交通音乐广播",
+            "name": "南宁交通音乐广播"
+        },
+        {
+            "url": "https://ytcastmp3.radio.cn/71/stream_10703.mp3?type=1&key=9b67dc728615a7df482ebfae59bccb4e&time=6744398f",
+            "title": "山东经典音乐广播",
+            "name": "山东经典音乐广播"
+        },
+        {
+            "url": "https://ytcastmp3.radio.cn/63/stream_10489.mp3?type=1&key=53abc81041e063d9915de7852eb97ae4&time=67441e7b",
+            "title": "AsiaFM亚洲音乐台",
+            "name": "AsiaFM亚洲音乐台"
+        },
+        {
+            "url": "https://lhttp.qtfm.cn/live/1935/64k.mp3",
+            "title": "昆明文艺旅游广播",
+            "name": "昆明文艺旅游广播"
+        },
+        {
+            "url": "https://lhttp.qtfm.cn/live/1929/64k.mp3",
+            "title": "云南音乐广播",
+            "name": "云南音乐广播"
+        },
+        {
+            "url": "https://lhttp.qingting.fm/live/21209/64k.mp3",
+            "title": "东莞音乐广播",
+            "name": "东莞音乐广播"
+        },
+        {
+            "url": "http://lhttp.qingting.fm/live/20701/64k.mp3",
+            "title": "江门恩平电台",
+            "name": "江门恩平电台"
+        },
+        {
+            "url": "https://lhttp.qingting.fm/live/2779/64k.mp3",
+            "title": "无锡音乐广播",
+            "name": "无锡音乐广播"
+        },
+        {
+            "url": "https://www.hitime5.com/radio/",
+            "title": "江苏经典流行音乐广播",
+            "name": "江苏经典流行音乐广播"
         },
         {
             "url": "https://ais-edge08-live365-dal02.cdnstream.com/a98605",
