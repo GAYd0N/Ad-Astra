@@ -53,7 +53,7 @@ public class FlagUrlScreen extends Screen {
                 this.urlField.setTextColor(0xFF0000);
             }
         });
-        urlField.setMaxLength(64);
+        urlField.setMaxLength(512);
     }
 
     @Override
